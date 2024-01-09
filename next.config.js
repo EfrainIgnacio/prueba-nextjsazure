@@ -6,6 +6,7 @@ const nextConfig = {
   //       "/": { page: "/" },
   //     }
   //   },
+  output: "export",
 }
 
 module.exports = nextConfig
